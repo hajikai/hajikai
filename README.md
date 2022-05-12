@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I know Javascript, jQuery, AJAX, Java, HTML, CSS, MySQL, Git, and other things. Hire me, please. :)
+
 <!--
 **hajikai/hajikai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
